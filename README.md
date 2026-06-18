@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Malika 👋
 
-<!--
-**mnmlsm/mnmlsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at SAE Berlin.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying Software Engineering at SAE Berlin
+* 💻 Interested in Software Development and Embedded Systems
+* 🌱 Currently learning C#, Rust and Software Architecture
+* 🔍 Looking for Working Student and Internship opportunities
+
+
+### Languages
+
+* C#
+* C++
+* Rust
+* Arduino Assembler
+* SQLite
+* XAML
+* HTML/CSS
+
+### Frameworks & Technologies
+
+* .NET
+* WPF
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio
+* VS Code
+* Adobe Photoshop
+* Adobe Illustrator
+
+## Featured Projects
+
+### Nimbus Chat
+
+Desktop chat application built with C# and WPF.
+
+### Autonomous Robot Recovery System
+
+Embedded robotics project using Arduino and C++.
+
+### GUI Application
+
+Desktop GUI application developed with Rust.
+
+### Monitor Terminal Tool
+
+Terminal-based application developed in Rust.
